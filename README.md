@@ -8,6 +8,8 @@
 
 * Flex-box
 
-## Hecho por: Olfer Andres Uribe 
+## Hecho por: 
+
+## Olfer Andres Uribe 
 
 ### Linkedin: https://www.linkedin.com/in/olfer-andres-uribe-palomino/
